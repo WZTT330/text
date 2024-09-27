@@ -1,0 +1,28 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+13.209.166.73,80,false,ICN,Asia Pacific,Seoul,238 ms,71881 kB/s
+52.29.224.33,80,false,FRA,Europe,Frankfurt,170 ms,10981 kB/s
+3.66.115.225,80,false,FRA,Europe,Frankfurt,176 ms,10646 kB/s
+18.156.209.101,80,false,FRA,Europe,Frankfurt,160 ms,8966 kB/s
+18.159.105.97,80,false,FRA,Europe,Frankfurt,231 ms,8937 kB/s
+13.39.231.83,443,false,CDG,Europe,Paris,177 ms,7227 kB/s
+13.230.34.30,80,false,NRT,Asia Pacific,Tokyo,85 ms,6459 kB/s
+3.68.31.54,80,false,FRA,Europe,Frankfurt,225 ms,6315 kB/s
+51.17.192.69,80,false,MXP,Europe,Milan,239 ms,3022 kB/s
+51.17.192.69,443,false,MRS,Europe,Marseille,240 ms,1912 kB/s
+35.86.94.173,80,false,SEA,North America,Seattle,217 ms,1503 kB/s
+52.53.226.228,80,false,SJC,North America,San Jose,194 ms,1313 kB/s
+18.179.65.137,8443,false,NRT,Asia Pacific,Tokyo,83 ms,732 kB/s
+18.185.254.189,80,false,FRA,Europe,Frankfurt,172 ms,569 kB/s
+18.178.250.71,80,false,NRT,Asia Pacific,Tokyo,86 ms,156 kB/s
+18.216.55.100,80,false,ORD,North America,Chicago,232 ms,118 kB/s
+54.150.195.218,80,false,NRT,Asia Pacific,Tokyo,81 ms,92 kB/s
+204.110.223.75,80,false,CMH,North America,Columbus,229 ms,0 kB/s
+35.167.93.200,443,false,SEA,North America,Seattle,223 ms,0 kB/s
+204.110.223.255,80,false,CMH,North America,Columbus,243 ms,0 kB/s
+3.101.110.90,80,false,SJC,North America,San Jose,172 ms,0 kB/s
+204.110.221.192,80,false,SEA,North America,Seattle,230 ms,0 kB/s
+204.110.223.167,80,false,CMH,North America,Columbus,235 ms,0 kB/s
+204.110.220.87,80,false,SEA,North America,Seattle,210 ms,0 kB/s
+204.110.220.61,80,false,SEA,North America,Seattle,217 ms,0 kB/s
+204.110.221.138,80,false,SEA,North America,Seattle,204 ms,0 kB/s
+204.110.223.177,80,false,CMH,North America,Columbus,250 ms,0 kB/s
